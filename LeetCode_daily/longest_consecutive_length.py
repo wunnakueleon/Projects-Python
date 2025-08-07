@@ -12,7 +12,7 @@ def longest_consecutive_length(nums):
 
 
 
-print(longest_consecutive_length([0, 1, 3, 2, 1]))
+print(len(longest_consecutive_length([0, 1, 3, 2, 1, 90, 28, 19])))
 
 
 
